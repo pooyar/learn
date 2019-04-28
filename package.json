@@ -1,0 +1,11 @@
+{
+  "name": "iampooya-nodejs1",
+  "version": "0.0.0",
+  "description": "Learn Node.js by C#",
+  "main": "index.js",
+  "scripts": {
+    "test": "maryam"
+  },
+  "author": "Pooya",
+  "license": "MIT"
+}
